@@ -1,4 +1,4 @@
-# # Beauty Product Performance Analysis
+#  Beauty Product Performance Analysis
 
 ## Project Overview
 This project focuses on understanding beauty and cosmetic product performance through data science. It explores how product attributes such as price, category, brand, ingredients, skin type, and cruelty-free status relate to product ratings.
