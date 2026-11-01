@@ -1,0 +1,4 @@
+Model,Mean F1 Score,Standard Deviation
+Logistic Regression,0.004274829140767036,0.0014882611912977466
+Decision Tree,0.024691194183109742,0.01107451457396714
+Random Forest,0.0,0.0
