@@ -207,6 +207,7 @@ ________________________________________________________________________________
  Git & GitHub                     -                 Version control and project management 
 
 ## Repository Structure
+```text
 Beauty-Product-Performance-Analysis/
 │
 ├── README.md
@@ -231,9 +232,11 @@ Beauty-Product-Performance-Analysis/
 ├── week6_feature_importance.csv
 │
 └── Final_Project_Report.docx
+```
 Note: The structure highlights the main project files. Update filenames if your uploaded files use different names.*
 
 ## Overall Data Science Workflow
+```text
 Business Problem Definition
           ↓
 Data Sourcing & Understanding
@@ -251,6 +254,7 @@ Classification Modeling
 Model Evaluation
           ↓
 Business Insights & Recommendations
+```
 
 ## Expected Business Applications
 The analytical workflow can help beauty and cosmetics businesses:
