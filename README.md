@@ -194,6 +194,7 @@ Deliverables:
 - Final Project Report.
 
 ##  Technologies & Libraries Used
+```text
 
  Technology                       -                      Application 
 _______________________________________________________________________________________
@@ -205,6 +206,7 @@ ________________________________________________________________________________
  Scikit-learn                     -                 Machine learning and model evaluation 
  Jupyter Notebook & VSCode        -                 Interactive analysis and experimentation 
  Git & GitHub                     -                 Version control and project management 
+```
 
 ## Repository Structure
 ```text
